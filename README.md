@@ -10,6 +10,7 @@ Install with pip:
 $ pip install -r requirements.txt
 ```
 ## Run Flask
+OBSERVATION: Required client_id and client_secret variables
 ```
 $ FLASK_APP=lvido.py flask run
 
