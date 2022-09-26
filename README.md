@@ -8,6 +8,7 @@ Install with pip:
 
 ```
 $ pip install -r requirements.txt
+$ source  venv/bin/activate
 ```
 ## Run Flask
 OBSERVATION: Required client_id and client_secret variables
